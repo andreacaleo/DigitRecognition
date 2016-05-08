@@ -1,5 +1,5 @@
 # xgboost based solution for the Digit Recognition challenge on Kaggle
-The Kaggle Digit Recognition practice challenge is at: https://www.kaggle.com/c/digit-recognizer
+The Kaggle Digit Recognition practice challenge and the data sets are at: https://www.kaggle.com/c/digit-recognizer
 
 This solution is based on xgboost and scores in the top 30% of the Kaggle leaderboard. The only algorithms that outperform it and have been made publicly available are Neural Networks and Support Vector Clustering.
 
